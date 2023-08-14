@@ -14,4 +14,3 @@ Teams file (Details about the Teams, discipline, Name of Country and the event):
 
 **Language: SQL**
 **Services: Git, Azure Synapse Analytics, Azure Storage, Databricks**
-
